@@ -10,15 +10,18 @@
 
 # Welcome to My GitHub Profile! 👋
 
-I'm [Your Name], a [Your Job Title or Field] with a passion for [Your Area of Interest]. I enjoy collaborating on software development and embracing new challenging opportunities.
+I'm Ahkdan Prika N,Vocational High School Graduates in 2024 majoring in Basic Computer and Network Engineering who have more ability in using Winbox software to configure networks. And also have the ability and experience in designing, developing, and testing websites with the latest technologies. Have had and understand a little in using JavaScript, Typescript, CSS, and HTML programming languages. Also understand the React, Tailwind CSS, and Next js frameworks. Want to find more new challenges and new experiences related to how to optimize user experience.
 
 ## About Me
 
-- 🌱 I’m currently learning and enhancing skills in [Specific Technology or Programming Language].
-- 💼 Working as a [Your Job Position] at [Your Company or Organization].
-- 💬 Ask me about: [Specific Topic or Technology].
-- 📫 How to reach me: [Your Email Address] or [Your Social Media Profile].
-
+- 🌱 Currently I am learning and improving my skills in HTML, CSS, JavaScript programming languages ​​and React, Next js, Tailwind css frameworks.
+- 💼 Working as a frontend web developer
+- 💬 Feel free to reach out to me if you have any questions or discussions on:
+        - **Best practices in software architecture and design**
+        - **Implementing agile methodologies in development teams**
+        - **Optimizing performance in frontend web development**
+        - **Integrating machine learning models into production systems**
+        - **Career advice in the tech industry**
  
 <div align="center"> 
   <a href="ahkdanprika01@gmail.com">
