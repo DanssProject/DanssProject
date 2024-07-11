@@ -16,12 +16,7 @@ I'm Ahkdan Prika N,Vocational High School Graduates in 2024 majoring in Basic Co
 
 - 🌱 Currently I am learning and improving my skills in HTML, CSS, JavaScript programming languages ​​and React, Next js, Tailwind css frameworks.
 - 💼 Working as a frontend web developer
-- 💬 Feel free to reach out to me if you have any questions or discussions on:
-        - **Best practices in software architecture and design**
-        - **Implementing agile methodologies in development teams**
-        - **Optimizing performance in frontend web development**
-        - **Integrating machine learning models into production systems**
-        - **Career advice in the tech industry**
+- 💬 Feel free to reach out to me if you have any questions or discussions on:**Best practices in software architecture and design**, **Implementing agile methodologies in development teams**, **Optimizing performance in frontend web development**, **Integrating machine learning models into production systems**, **Career advice in the tech industry**
  
 <div align="center"> 
   <a href="ahkdanprika01@gmail.com">
