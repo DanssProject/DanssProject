@@ -1,24 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahkdan+Prika!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahkdan+Prika+Nurwicaksono!;" />
 </h1>
 
 <h3 align="center">A highly motivated frontend developer from Indonesia</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+# Welcome to My GitHub Profile! 👋
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+I'm [Your Name], a [Your Job Title or Field] with a passion for [Your Area of Interest]. I enjoy collaborating on software development and embracing new challenging opportunities.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## About Me
 
- </div>
+- 🌱 I’m currently learning and enhancing skills in [Specific Technology or Programming Language].
+- 💼 Working as a [Your Job Position] at [Your Company or Organization].
+- 💬 Ask me about: [Specific Topic or Technology].
+- 📫 How to reach me: [Your Email Address] or [Your Social Media Profile].
+
  
 <div align="center"> 
   <a href="ahkdanprika01@gmail.com">
